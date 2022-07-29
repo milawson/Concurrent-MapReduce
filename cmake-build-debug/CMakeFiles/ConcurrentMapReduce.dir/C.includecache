@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mitchelllawson/Documents/Northeastern University/Education/CS5600 Computer Systems/CS5600/Concurrent-MapReduce/mapreduce.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+pthread.h
+-
+mapreduce.h
+/Users/mitchelllawson/Documents/Northeastern University/Education/CS5600 Computer Systems/CS5600/Concurrent-MapReduce/mapreduce.h
+assert.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+
+/Users/mitchelllawson/Documents/Northeastern University/Education/CS5600 Computer Systems/CS5600/Concurrent-MapReduce/mapreduce.h
+
